@@ -1,0 +1,10 @@
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\bin\Debug\netcoreapp3.1\MongoDbWrapper.deps.json
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\bin\Debug\netcoreapp3.1\MongoDbWrapper.dll
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\bin\Debug\netcoreapp3.1\MongoDbWrapper.pdb
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.csproj.AssemblyReference.cache
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.AssemblyInfoInputs.cache
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.AssemblyInfo.cs
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.csproj.CoreCompileInputs.cache
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.dll
+C:\Users\m.oliveira.barbosa\Desktop\MongoDbWrapper\obj\Debug\netcoreapp3.1\MongoDbWrapper.pdb
